@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb875acc-4c3f-42c1-9f34-c366370baac7" name="Changes" comment="22.03.08" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25tuT2GPHYg3Z4GiDxgCWLAfLFT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+  </component>
+  <component name="RunManager" selected="Application.mm">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.AnimalTest" />
+      <module name="doItJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstract.ComputerTest" />
+      <module name="doItJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.CustomerTest" />
+      <module name="doItJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstract.main" />
+      <module name="doItJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstract.mm" />
+      <module name="doItJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mm" />
+        <item itemvalue="Application.ComputerTest" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.CustomerTest" />
+        <item itemvalue="Application.AnimalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb875acc-4c3f-42c1-9f34-c366370baac7" name="Changes" comment="" />
+      <created>1646358707964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646358707964</updated>
+      <workItem from="1646358709099" duration="3706000" />
+      <workItem from="1646366456414" duration="64000" />
+      <workItem from="1646366618214" duration="25000" />
+      <workItem from="1646369710362" duration="36660000" />
+    </task>
+    <task id="LOCAL-00001" summary="22.03.04">
+      <created>1646477848677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646477848677</updated>
+    </task>
+    <task id="LOCAL-00002" summary="22.03.04">
+      <created>1646477878479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646477878479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="22.03.05">
+      <created>1646497861104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646497861104</updated>
+    </task>
+    <task id="LOCAL-00004" summary="22.03.04">
+      <created>1646497868285</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646497868285</updated>
+    </task>
+    <task id="LOCAL-00005" summary="22.03.05">
+      <created>1646497890288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646497890289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="22.03.06">
+      <created>1646565334358</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646565334358</updated>
+    </task>
+    <task id="LOCAL-00007" summary="22.03.06">
+      <created>1646570522605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646570522605</updated>
+    </task>
+    <task id="LOCAL-00008" summary="22.03.06">
+      <created>1646570536476</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646570536476</updated>
+    </task>
+    <task id="LOCAL-00009" summary="22.03.06">
+      <created>1646571940702</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646571940702</updated>
+    </task>
+    <task id="LOCAL-00010" summary="22.03.06">
+      <created>1646574142950</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646574142950</updated>
+    </task>
+    <task id="LOCAL-00011" summary="22.03.06">
+      <created>1646576930890</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646576930890</updated>
+    </task>
+    <task id="LOCAL-00012" summary="22.03.06">
+      <created>1646719922450</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646719922450</updated>
+    </task>
+    <task id="LOCAL-00013" summary="22.03.08">
+      <created>1646740329009</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1646740329009</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22.03.04" />
+    <MESSAGE value="22.03.05" />
+    <MESSAGE value="22.03.06" />
+    <MESSAGE value="22.03.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.03.08" />
+  </component>
+</project>
