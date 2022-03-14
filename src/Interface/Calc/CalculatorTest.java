@@ -1,4 +1,4 @@
-package Interface;
+package Interface.Calc;
 
 public class CalculatorTest {
     public static void main(String[] args) {

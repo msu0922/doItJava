@@ -1,4 +1,4 @@
-package Interface;
+package Interface.Calc;
 
 public abstract class Calculator implements Calc{
 

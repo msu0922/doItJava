@@ -1,4 +1,4 @@
-package Interface;
+package Interface.Calc;
 
 public interface Calc {
 

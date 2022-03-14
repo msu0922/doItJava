@@ -1,4 +1,4 @@
-package Interface;
+package Interface.Calc;
 
 public class CompleteCalculator extends Calculator{
 
